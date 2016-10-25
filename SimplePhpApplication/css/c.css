@@ -1,0 +1,26 @@
+
+
+.table_car
+{
+    border-collapse: collapse;
+    width:100%;
+}
+
+.table_car tr td
+{
+    border:1px solid grey;
+    padding: 3px;
+}
+
+.table_toc td { font-weight: bold;}
+
+.container
+{
+    width:1000px;
+    margin:50px auto;
+}
+
+.right
+{
+    float:right;
+}
